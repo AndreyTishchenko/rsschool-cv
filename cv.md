@@ -19,3 +19,13 @@ TG: @andrewtishchenko<br>
 * Работа с контекстом
 * Работа с Drag-and-Drop
 * Основы ООП
+### JavaScript Algorithms and Data Structures|freecodecamp|30.07.2021 - 01.09.2021
+* Basic JavaScript
+* ES6
+* Regular Expressions
+* Debugging
+* Basic Data Structures
+* Basic Algorithm Scripting
+* Object Oriented Programming
+* Functional Programming
+* Intermediate Algorithm Scripting
