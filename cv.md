@@ -29,3 +29,11 @@ TG: @andrewtishchenko<br>
 * Object Oriented Programming
 * Functional Programming
 * Intermediate Algorithm Scripting
+### Responsive Web Design <span style="margin-left: 200px;">freecodecamp|01.07.2021 - 29.07.2021
+* Basic HTML and HTML5
+* Basic CSS
+* Applied Visual Design
+* Applied Accessibility
+* Responsive Web Design Principles
+* CSS Flexbox
+* CSS Grid
