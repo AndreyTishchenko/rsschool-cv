@@ -1,0 +1,1 @@
+[my cv](https://AndreyTishchenko.github.io/rsschool-cv/cv)
