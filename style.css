@@ -1,8 +1,49 @@
 #main-div{
-    width: 70%;   
+    width: 90%;
+    margin: auto;
 }
+
+ul{
+    padding-inline-start: 15px;
+    font-size: 20px;
+}
+
+#name{
+    font-size: 30px; /* Размер шрифта */
+    border-bottom: 0px solid;
+    padding-bottom: 0px; /* Расстояние от текста до линии */
+    margin: 0px;
+}
+
+#role{
+    font-size: 25px; /* Размер шрифта */
+    border-bottom: 0px solid;
+    padding-bottom: 0px; /* Расстояние от текста до линии */
+    margin: 0px;
+}
+
 h1 {
- font-size: 200%; /* Размер шрифта */
+ font-size: 50px; /* Размер шрифта */
  border-bottom: 2px solid;
  padding-bottom: 5px; /* Расстояние от текста до линии */
+}
+
+h2 {
+    font-size: 30px; /* Размер шрифта */
+    border-bottom: 2px solid;
+    padding-bottom: 5px; /* Расстояние от текста до линии */
+}
+
+code{
+    font-size: 20px;
+    width: 350px;
+    display: block;
+    background-color: #f6f8fa;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+p{
+    font-size: 20px;
 }
